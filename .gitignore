@@ -11,6 +11,9 @@
 /[Mm]emoryCaptures/
 /[Pp]ackages/
 /[Uu]nityCommon.props
+/[Aa]pp.config
+/[Pp]roperties/
+/[Bb]in/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
